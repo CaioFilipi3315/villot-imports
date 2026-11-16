@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nome": "Teclado Mecânico",
+    "categoria": "Periféricos",
+    "quantidade": 24,
+    "minimo": 10,
+    "preco": 249.9,
+    "atualizado": "16/11/2026 15:03"
+  },
+  {
+    "id": 2,
+    "nome": "Mouse Sem Fio",
+    "categoria": "Periféricos",
+    "quantidade": 8,
+    "minimo": 12,
+    "preco": 89.9,
+    "atualizado": "16/11/2026 15:03"
+  },
+  {
+    "id": 3,
+    "nome": "Monitor 24\"",
+    "categoria": "Monitores",
+    "quantidade": 5,
+    "minimo": 5,
+    "preco": 899.0,
+    "atualizado": "16/11/2026 15:03"
+  },
+  {
+    "id": 4,
+    "nome": "Cabo HDMI 2m",
+    "categoria": "Cabos",
+    "quantidade": 0,
+    "minimo": 15,
+    "preco": 29.9,
+    "atualizado": "16/11/2026 15:03"
+  },
+  {
+    "id": 5,
+    "nome": "Webcam Full HD",
+    "categoria": "Periféricos",
+    "quantidade": 17,
+    "minimo": 6,
+    "preco": 179.0,
+    "atualizado": "16/11/2026 15:03"
+  },
+  {
+    "id": 6,
+    "nome": "SSD 480GB",
+    "categoria": "Armazenamento",
+    "quantidade": 31,
+    "minimo": 10,
+    "preco": 219.9,
+    "atualizado": "16/11/2026 15:03"
+  }
+]
